@@ -20,3 +20,8 @@ of multiple targets using joint probabilistic data association.
 IEEE journal of Oceanic Engineering, 8(3):173–184, 1983.
 ______
 2023.09
+MAIN Resources
+https://github.com/ultralytics/ultralytics
+
+https://towardsdatascience.com/what-i-was-missing-while-using-the-kalman-filter-for-object-tracking-8e4c29f6b795#:~:text=The%20algorithm%20steps,state%20with%20an%20incoming%20measurement.
+
